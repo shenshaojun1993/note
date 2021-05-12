@@ -1,4 +1,4 @@
-# Kuber
+# Kube
 kubectl port-forward --namespace ben-cces wistful-sloth-eric-aat-cces-jcat-7768b7d98c-pkwfx  9200:9200 &
 kubectl get pods
 
